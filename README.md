@@ -1,7 +1,7 @@
-# scandalinbohemia
+scandalinbohemia
 
 <html>
-<center><h1>A Scandal in Bohemia</h1>
+<center><h1>A Scandal in <abbr title="An area in what is now the Czech Republic; it is in Eastern Europe">Bohemia</abbr></h1>
 	<br>
 	<h2>A Sherlock Holmes Mystery</h2>
 	<h3>By Sir Arthur Conan Doyle</h3>
